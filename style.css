@@ -1,0 +1,23 @@
+a > img {
+  margin-right: 6px;
+}
+.navbar ul li {
+  color: white;
+}
+.feature-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 0.75rem;
+}
+img .bi {
+  width: "1em";
+  height: "1em";
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
